@@ -1,0 +1,27 @@
+#header{
+    .conteiner{
+        
+        .header{
+            gap: 200px;
+            .About{
+                display: flex;
+                gap: 50px;
+                padding-top: 18px;
+            }
+            .Search{
+                
+                .input1{
+                    border-radius: 25px;
+                    border: none;
+                    background-color: rgb(161, 161, 161);
+                    font-size:20px;
+                    padding: 10px;
+                }
+
+            }
+            display: flex;
+            text-align: center;
+            justify-content: center;
+        }
+    }
+}
